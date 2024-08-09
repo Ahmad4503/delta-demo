@@ -1,3 +1,9 @@
 # delta-demo
 Thid is a demo for Git &amp; GitHub class.
-Hy
+
+# Teacher 
+Sharadha khapra
+
+# Student 
+Ruhab Hamid
+
